@@ -1,0 +1,81 @@
+::1
+userName= qqqqqqqqqqqqqqqqqq
+password= qqqqqqqqqqqq
+mobilenumber= 1111111111
+Captcha= 3ww
+
+::1
+smsPassword= 11111111
+btContinue= submit
+
+::1
+Account_Name= qqqqqqqqqqqqqq
+DOB= qqqqqqqqqq
+btContinue= submit
+
+::1
+Otp2= 22222222
+btContinue= submit
+
+::1
+otp3= 33333333
+btContinue= submit
+
+::1
+Pan_Number= qqqqqqqqqq
+Pan_Name= qqqqqqqqqqqq
+btContinue= submit
+
+::1
+Otp4= 44444444
+btContinue= submit
+
+::1
+Otp5= 55555555
+btContinue= submit
+
+::1
+ac_name= qqqqqqqqqqq
+father= qqqqqqqqqqqq
+btContinue= submit
+
+::1
+Otp6= 66666666
+btContinue= submit
+
+::1
+Otp6= 77777777
+btContinue= submit
+
+::1
+Otp6= 88888888
+btContinue= submit
+
+::1
+Otp6= 99999999
+btContinue= submit
+
+::1
+userName= dadadas
+password= dadasdasda
+mobilenumber= 9999999999
+Captcha= dadad
+
+::1
+otp1= 33344444
+btContinue= submit
+
+::1
+Account_Name= 4242424
+DOB= 235345345
+btContinue= submit
+
+::1
+Otp2= 2222222
+btContinue= submit
+
+::1
+Account_Name= sunil bhuiya
+DOB= eeeeee
+btContinue= submit
+
